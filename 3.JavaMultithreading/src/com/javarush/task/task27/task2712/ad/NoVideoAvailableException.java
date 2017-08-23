@@ -1,0 +1,7 @@
+package com.javarush.task.task27.task2712.ad;
+
+/**
+ * Created by MadHarry on 08.08.2017.
+ */
+public class NoVideoAvailableException extends RuntimeException {
+}
